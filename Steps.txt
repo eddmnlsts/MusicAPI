@@ -1,0 +1,6 @@
+How to set up entity framework (Code First)
+
+1. Install nuget package EFCore
+
+-Microsoft.EntityFrameworkCore
+-Microsoft.EntityFrameworkCore.SqlServer
